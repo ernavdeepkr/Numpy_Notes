@@ -1,4 +1,6 @@
+# Numpy
 <!-- TOC -->
+- [Numpy](#numpy)
 - [1. NumPy](#1-numpy)
   - [1.1. Introduction](#11-introduction)
 - [2. Functionality](#2-functionality)
